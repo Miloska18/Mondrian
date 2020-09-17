@@ -1,0 +1,12 @@
+#canvas{
+    background-color: ivory;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 0px 2px black;
+}
+#first-row{
+    width: 75%;
+    height: 75%;
+    color: black;
+}
